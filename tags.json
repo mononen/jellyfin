@@ -4,21 +4,21 @@
       "name": "release",
       "version": "10.6.4-1",
       "commit": "babf69b",
-      "upstream": "",
+      "upstream": "Stable",
       "lastUpdated": "2021-02-23T13:09:03.834Z"
     },
     {
       "name": "testing",
       "version": "10.7.0~rc3",
       "commit": "be54a84",
-      "upstream": "",
+      "upstream": "RC",
       "lastUpdated": "2021-02-23T13:08:45.188Z"
     },
     {
       "name": "nightly",
       "version": "20210223.10",
       "commit": "df0bba4",
-      "upstream": "",
+      "upstream": "Unstable",
       "lastUpdated": "2021-02-23T13:09:25.791Z"
     }
   ]
