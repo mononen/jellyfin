@@ -16,10 +16,10 @@
     },
     {
       "name": "nightly",
-      "version": "20210708.2",
-      "commit": "addfb27",
+      "version": "20210709.3",
+      "commit": "4088daa",
       "upstream": "Unstable",
-      "lastUpdated": "2021-07-08T14:46:28.256Z"
+      "lastUpdated": "2021-07-09T12:18:11.368Z"
     }
   ],
   "pulls": 772742,
