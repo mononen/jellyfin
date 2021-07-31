@@ -17,9 +17,9 @@
     {
       "name": "nightly",
       "version": "20210730.3",
-      "commit": "6e8cc85",
+      "commit": "6325a58",
       "upstream": "Unstable",
-      "lastUpdated": "2021-07-31T05:53:05.863Z"
+      "lastUpdated": "2021-07-31T06:16:01.053Z"
     }
   ],
   "pulls": 785780,
