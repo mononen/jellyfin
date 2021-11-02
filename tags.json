@@ -17,9 +17,9 @@
     {
       "name": "nightly",
       "version": "20211101.22",
-      "commit": "bcb03db",
+      "commit": "95c2685",
       "upstream": "Unstable",
-      "lastUpdated": "2021-11-02T17:44:31.114Z"
+      "lastUpdated": "2021-11-02T18:15:14.169Z"
     }
   ],
   "pulls": 909606,
